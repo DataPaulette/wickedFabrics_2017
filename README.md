@@ -28,3 +28,5 @@ Programmer son canapé.
 	**Programming our couch.**  
 	
 #\#Wickedfabrics
+
+TODO: add pictures
