@@ -27,6 +27,6 @@ Textiles chauffants pour mémé, des chaussettes pour papa.
 Programmer son canapé.  
 	**Programming our couch.**  
 	
-#\#Wickedfabrics
+## #Wickedfabrics
 
-TODO: add pictures
+# TODO: add pictures
